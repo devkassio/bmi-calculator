@@ -20,6 +20,10 @@ O projeto permite que o usuário insira sua altura e peso para calcular instanta
 - **JavaScript (ES6)** → Lógica de cálculo e exibição dinâmica dos resultados  
 
 ---
+## Projeto Online:  
+https://devkassio.github.io/bmi-calculator/
+
+---
 
 ## 📷 Prévia do Projeto  
 
